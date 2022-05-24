@@ -1,0 +1,43 @@
+.menu {
+    color: aliceblue;
+    background: grey;
+    text-align: center;
+    height: 100px;
+}
+
+.second {
+    color: aliceblue;
+    text-align: center;
+    background: url("../img/banner.png");
+    height: 300px;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.menu,
+.second,
+.third {
+    margin: 0 auto;
+    width: 750px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 16px;
+
+
+}
+}
+
+p {
+    margin: 0;
+}
+
+.third {
+    color: grey;
+}
+
+h3 {
+    color: #6DC72A;
+}
